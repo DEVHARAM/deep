@@ -1,2 +1,8 @@
 # deep
-<img src="http://ec2-54-180-102-7.ap-northeast-2.compute.amazonaws.com/image/activex2.jpg">
+
+<h>신경망 모델을 만들어 학습시키고 예측을 해본다</h>
+
+
+# 활용한라이브러리
+- sklearn
+- 
